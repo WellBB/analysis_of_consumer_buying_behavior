@@ -1,0 +1,2 @@
+# analysis_of_consumer_buying_behavior
+The project consisted of analyzing purchase data from a web site. The data were provided in JSON format, and were collected from product purchases made online, with information on product type, age, gender, purchase value, among others. The goal was to deliver an analysis of consumer buying behavior, which could provide future support to feed machine learning models and make predictions about future behaviors.
